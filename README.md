@@ -1,9 +1,10 @@
-# send-many-dapp
+# ERC777 Token Transfer DAPP for Conflux
 
 ## Project setup
 ```
 npm install
 ```
+and Chrome extension `Conflux Portal` is required.
 
 ### Compiles and hot-reloads for development
 ```
